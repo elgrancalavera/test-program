@@ -1,0 +1,19 @@
+{
+  "name": "@grancalavera/test-program",
+  "version": "1.0.0",
+  "description": "Simple program runner to use in CLI tests",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elgrancalavera/test-program.git"
+  },
+  "author": "leoncoto@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elgrancalavera/test-program/issues"
+  },
+  "homepage": "https://github.com/elgrancalavera/test-program#readme",
+  "dependencies": {
+    "lodash": "^4.15.0"
+  }
+}
